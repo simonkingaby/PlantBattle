@@ -8,7 +8,7 @@ Plant Battle Archive.zip has everything in it except the Rules Document.
 We are still working on the image assets.
 
 **Contributors**
-Charlie Henderson
-Chris Kestner
-Shannon Zagst
-Simon Kingaby
+- Charlie Henderson
+- Chris Kestner
+- Shannon Zagst
+- Simon Kingaby
