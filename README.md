@@ -9,6 +9,6 @@ We are still working on the image assets.
 
 **Contributors**
 - Charlie Henderson
-- Chris Kestner
+- Chris Kester
 - Shannon Zagst
 - Simon Kingaby
